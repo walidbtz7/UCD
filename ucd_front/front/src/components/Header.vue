@@ -3,7 +3,7 @@
 
   <div class="mb-2 sm:mb-0 flex flex-row">
     <div class=" self-center mr-2">
-      <img class=" self-center" src="http://www.ucd.ac.ma/wp-content/themes/ucd/img/logo.png" />
+      <img class=" self-center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Logo-UCD.jpg/180px-Logo-UCD.jpg" />
     </div>
   </div>
  <div v-if!="user"> 
